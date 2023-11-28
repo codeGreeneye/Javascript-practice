@@ -36,7 +36,7 @@ reverseTable(3);
 
 // months name 15nov
 
-function getMonthName(month) {
+function getMonth(month) {
     switch (month) {
       case 1:
         console.log("january");
