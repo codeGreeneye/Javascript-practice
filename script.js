@@ -4,11 +4,12 @@ function evenNumber(x){
     }else{
         return false;
     }
-}// 14nov assignment
-
+}
 const even = evenNumber(10)
 console.log(even)
 
+
+// 14nov assignment
 
 function table(num) {
   for (let i = 1; i <= 10; i++) {
