@@ -93,3 +93,8 @@ function logArrayElements(arr) {
   }
 }
 
+function logArrayElementsForOf(arr) {
+  for (let element of arr) {
+    console.log(element);
+  }
+}
