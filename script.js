@@ -85,7 +85,7 @@ function getMonth(month) {
   
   //novb
 
-  const Array = [1, 2, 3, 4, 5, "x", "y", "z"];
+  const array = [1, 2, 3, 4, 5, "x", "y", "z"];
 
 function logArrayElements(arr) {
   for (let i = 0; i < arr.length; i++) {
@@ -99,7 +99,7 @@ function logArrayElementsForOf(arr) {
   }
 }
 
-logArrayElements(Array);
+logArrayElements(array);
 
 
 
