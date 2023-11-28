@@ -98,4 +98,9 @@ function logArrayElementsForOf(arr) {
     console.log(element);
   }
 }
+
 logArrayElements(Array);
+
+
+
+
