@@ -4,14 +4,11 @@ function evenNumber(x){
     }else{
         return false;
     }
-}
+}// 14nov assignment
 
 const even = evenNumber(10)
 console.log(even)
 
-console.clear();
-
-// gives multiples of number given
 
 function table(num) {
   for (let i = 1; i <= 10; i++) {
