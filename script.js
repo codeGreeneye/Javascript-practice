@@ -75,10 +75,10 @@ function getMonth(month) {
         console.log("december");
         break;
       default:
-        console.log("no input");
+        console.log("error");
     }
   }
   
-
   getMonth(11);
-  
+  getMonth(10);
+  getMonth(15);
