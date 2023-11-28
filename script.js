@@ -30,18 +30,5 @@ function reverseTable(num) {
 console.log("Reverse table");
 reverseTable(3);
 
-// skipping one field in a table
-
-function skippingOneTable(num) {
-  for (let i = 1; i <= 10; i++) {
-    if (i === 3) {
-      continue;
-    }
-    console.log(`${num} X ${i} = ${num * i}`);
-  }
-}
-console.log("Skipping multiple of 4 with 3");
-
-skippingOneTable(2);
 
 
